@@ -1,21 +1,3 @@
-@media all and (min-width: 1200px) {
-  .desc {
-    font-size: 1.5vw;
-  }
-}
-
-@media all and (max-width: 1199px) and (min-width: 600px) {
-  .desc {
-    font-size: 2vw;
-  }
-}
-
-@media all and (max-width: 599px) and (min-width: 50px) {
-  .desc {
-    font-size: 3vw;
-  }
-}
-
 html, body {
   height: 100%;
   background-color: beige;
@@ -79,4 +61,21 @@ html, body {
 .desc {
   position: relative;
   bottom: 0;
+}
+@media all and (min-width: 1200px) {
+  .desc {
+    font-size: 1.5vw;
+  }
+}
+
+@media all and (max-width: 1199px) and (min-width: 600px) {
+  .desc {
+    font-size: 2vw;
+  }
+}
+
+@media all and (max-width: 599px) and (min-width: 50px) {
+  .desc {
+    font-size: 3vw;
+  }
 }
