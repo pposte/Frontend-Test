@@ -1,17 +1,17 @@
 $(document).ready(function() {
 
-  //Add avatars to page for each person in database.
+  //Add employee
   $.each(profiles, function(i, val) {
     console.log(i);
     $(".container").append("<img src=" + val.img +  " class=\"prof-pic\" id="+i+"></img>");
   });
 
-  //Add tool-tip of person's name on hover.
+  //Hover on persons pic
   $(".prof-pic").mouseover(function(event) {
     $(this).attr("title", profiles[this.id].name);
   });
 
-  //Shrink last pane for sliding effect with relative positioning.
+  //Sliding Effect
   $(".prof-pic").click(function() {
     $("#pane3").animate({'width': 0, 'opacity':0, 'padding': 0}, 500);
     $("#pane1").animate({right: '0%'});
