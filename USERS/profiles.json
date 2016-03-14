@@ -1,0 +1,138 @@
+var profiles = {
+  "user1": {
+    "name": "Employee 1",
+    "desc": "Description of Employee 1",
+    "img": "images/user.jpg",
+    },
+  "user2": {
+    "name": "Employee 2",
+    "desc": "Description of Employee 2",
+    "img": "images/user.jpg"
+    },
+  "user3": {
+    "name": "Employee 3",
+    "desc": "Description of Employee 3",
+    "img": "images/user.jpg"
+    },
+  "user4": {
+    "name": "Employee 4",
+    "desc": "Description of Employee 4",
+    "img": "images/user.jpg"
+    },
+  "user5": {
+    "name": "Employee 5",
+    "desc": "Description of Employee 5",
+    "img": "images/user.jpg"
+    },
+  "user6": {
+    "name": "Employee 6",
+    "desc": "Description of Employee 6",
+    "img": "images/user.jpg"
+    },
+  "user7": {
+    "name": "Employee 7",
+    "desc": "Description of Employee 7",
+    "img": "images/user.jpg"
+    },
+  "user8": {
+    "name": "Employee 8",
+    "desc": "Description of Employee 8",
+    "img": "images/user.jpg"
+    },
+  "user9": {
+    "name": "Employee 9",
+    "desc": "Description of Employee 9",
+    "img": "images/user.jpg"
+    },
+  "user10": {
+    "name": "Employee 10",
+    "desc": "Description of Employee 10",
+    "img": "images/user.jpg"
+    },
+  "user11": {
+    "name": "Employee 11",
+    "desc": "Description of Employee 11",
+    "img": "images/user.jpg"
+    },
+  "user12": {
+    "name": "Employee 12",
+    "desc": "Description of Employee 12",
+    "img": "images/user.jpg"
+    },
+  "user13": {
+    "name": "Employee 13",
+    "desc": "Description of Employee 13",
+    "img": "images/user.jpg",
+    },
+  "user14": {
+  "name": "Employee 14",
+  "desc": "Description of Employee 14",
+  "img": "images/user.jpg"
+  },
+  "user15": {
+    "name": "Employee 15",
+    "desc": "Description of Employee 15",
+    "img": "images/user.jpg"
+    },
+  "user16": {
+    "name": "Employee 16",
+    "desc": "Description of Employee 16",
+    "img": "images/user.jpg"
+    },
+  "user17": {
+    "name": "Employee 17",
+    "desc": "Description of Employee 17",
+    "img": "images/user.jpg"
+    },
+  "user18": {
+    "name": "Employee 18",
+    "desc": "Description of Employee 18",
+    "img": "images/user.jpg"
+    },
+  "user19": {
+    "name": "Employee 19",
+    "desc": "Description of Employee 19",
+    "img": "images/user.jpg"
+    },
+  "user20": {
+    "name": "Employee 20",
+    "desc": "Description of Employee 20",
+    "img": "images/user.jpg"
+    },
+  "user21": {
+    "name": "Employee 21",
+    "desc": "Description of Employee 21",
+    "img": "images/user.jpg"
+    },
+  "user22": {
+    "name": "Employee 22",
+    "desc": "Description of Employee 22",
+    "img": "images/user.jpg"
+    },
+  "user23": {
+    "name": "Employee 23",
+    "desc": "Description of Employee 23",
+    "img": "images/user.jpg"
+    },
+  "user24": {
+    "name": "Employee 24",
+    "desc": "Description of Employee 24",
+    "img": "images/user.jpg"
+    },
+  "user25": {
+    "name": "Employee 25",
+    "desc": "Description of Employee 25",
+    "img": "images/user.jpg"
+    },
+  "user26": {
+    "name": "Employee 26",
+    "desc": "Description of Employee 26",
+    "img": "images/user.jpg"
+    },
+  "user27": {
+    "name": "Employee 27",
+    "desc": "Description of Employee 27",
+    "img": "images/user.jpg"
+    },
+
+}
